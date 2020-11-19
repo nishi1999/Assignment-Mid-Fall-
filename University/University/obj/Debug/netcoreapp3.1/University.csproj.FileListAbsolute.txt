@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Assigment\University\University\bin\Debug\netcoreapp3.1\University.exe
+C:\Users\User\Desktop\Assigment\University\University\bin\Debug\netcoreapp3.1\University.deps.json
+C:\Users\User\Desktop\Assigment\University\University\bin\Debug\netcoreapp3.1\University.runtimeconfig.json
+C:\Users\User\Desktop\Assigment\University\University\bin\Debug\netcoreapp3.1\University.runtimeconfig.dev.json
+C:\Users\User\Desktop\Assigment\University\University\bin\Debug\netcoreapp3.1\University.dll
+C:\Users\User\Desktop\Assigment\University\University\bin\Debug\netcoreapp3.1\University.pdb
+C:\Users\User\Desktop\Assigment\University\University\obj\Debug\netcoreapp3.1\University.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Assigment\University\University\obj\Debug\netcoreapp3.1\University.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Assigment\University\University\obj\Debug\netcoreapp3.1\University.AssemblyInfo.cs
+C:\Users\User\Desktop\Assigment\University\University\obj\Debug\netcoreapp3.1\University.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Assigment\University\University\obj\Debug\netcoreapp3.1\University.dll
+C:\Users\User\Desktop\Assigment\University\University\obj\Debug\netcoreapp3.1\University.pdb
+C:\Users\User\Desktop\Assigment\University\University\obj\Debug\netcoreapp3.1\University.genruntimeconfig.cache
